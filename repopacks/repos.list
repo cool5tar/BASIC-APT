@@ -1,0 +1,27 @@
+deb http://archive.ubuntu.com/ubuntu/ bionic main restricted
+deb http://archive.ubuntu.com/ubuntu/ bionic-updates main restricted
+deb http://archive.ubuntu.com/ubuntu/ bionic universe
+deb http://archive.ubuntu.com/ubuntu/ bionic-updates universe
+deb http://archive.ubuntu.com/ubuntu/ bionic multiverse
+deb http://archive.ubuntu.com/ubuntu/ bionic-updates multiverse
+deb http://archive.ubuntu.com/ubuntu/ bionic-backports main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu/ bionic-security main restricted
+deb http://security.ubuntu.com/ubuntu/ bionic-security universe
+deb http://security.ubuntu.com/ubuntu/ bionic-security multiverse
+deb https://packagecloud.io/cs50/repo/ubuntu/ trusty main
+deb https://dist.crystal-lang.org/apt crystal main
+deb https://download.mono-project.com/repo/ubuntu stable-bionic main
+deb [arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main
+deb https://dl.bintray.com/nxadm/rakudo-pkg-debs bionic main
+deb http://ppa.launchpad.net/avsm/ppa/ubuntu bionic main
+deb http://ppa.launchpad.net/avsm/ppa/ubuntu bionic main
+deb http://ppa.launchpad.net/bartbes/love-stable/ubuntu bionic main
+deb http://ppa.launchpad.net/bartbes/love-stable/ubuntu bionic main
+deb http://ppa.launchpad.net/deadsnakes/ppa/ubuntu bionic main
+deb http://ppa.launchpad.net/deadsnakes/ppa/ubuntu bionic main
+deb http://ppa.launchpad.net/kelleyk/emacs/ubuntu bionic main
+deb http://ppa.launchpad.net/kelleyk/emacs/ubuntu bionic main
+deb http://ppa.launchpad.net/longsleep/golang-backports/ubuntu bionic main
+deb http://ppa.launchpad.net/longsleep/golang-backports/ubuntu bionic main
+deb https://deb.nodesource.com/node_10.x bionic main
+deb-src https://deb.nodesource.com/node_10.x bionic main
